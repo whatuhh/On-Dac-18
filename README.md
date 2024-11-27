@@ -8,7 +8,7 @@ The ON-DAC-12 or On Board networking Digital Audio Console is a small form facto
 It can be pricy to make one running you about 700 dollars USD if your smart with your purchaces but compared to some off the shelf digital mixer with the same capabilitys thats a deal!
 In a nutshell the ON-DAC-12 is a Behrigner XR18 connected to the same network as a Raspberry Pi and a Behringer X-Touch.
 The idea is mine how you execute it is yours bring your own controller or mixer or hell put a AMD thread ripper in there. Run DOOM! 
-The niddy griddy of it will be explained in as much detail as a 14 year old posible can.
+The niddy griddy of it will be explained in as much detail as a 14 year old posiblely can.
 # Some Details
 The ON-DAC-12 is not just a mixing console, it aspires to be a full A.V.L. solution with modular individual consoles for audio, video and lighting. 
 Keeping the spirit of using off the shelf parts and in the style of MA Lighting Grand MA 2 and 3 it will have a touch screen with keys wraping around.
